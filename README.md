@@ -1,4 +1,4 @@
-👋 Hi, I'm Matt, a passionate developer from Poland. Welcome to my GitHub profile!
+<h3>👋 Hi, I'm Matt, a passionate developer from Poland. Welcome to my GitHub profile!</h3>
 
 <h3>When I code, I rely on</h3>
 <p>
