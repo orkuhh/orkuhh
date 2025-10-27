@@ -1,6 +1,6 @@
 <h3>👋 Hi, I'm Matt, a passionate developer from Poland. Welcome to my GitHub profile!</h3>
 
-![orkuhh's GitHub Banner](https://raw.githubusercontent.com/orkuhh/orkuhh/main/banner.png)
+![orkuhh's GitHub Banner](https://raw.githubusercontent.com/orkuhh/orkuhh/main/orkuhh-readme-banner.png)
 
 
 <h3>When I code, I rely on</h3>
